@@ -12,7 +12,7 @@ baseurl: "/sdg-indicators" # the subpath of your site, e.g. /blog
 url: ""
 data_dir: data
 environment: staging
-remotedatabaseurl: "https://sustainabledevelopment-rwanda.github.io/sdg-data"
+remote_data_prefix: "https://sustainabledevelopment-rwanda.github.io/sdg-data"
 # permalink: /news/:year/:month/:day/:title.html
 
 jekyll_get_json:
